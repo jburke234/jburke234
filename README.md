@@ -9,7 +9,7 @@
 - If you want to reach out:  <span> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jamesburkedev)
 [![Mail Badge](https://img.shields.io/badge/Mail-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](mailto:info@jamesburke.dev)
-<!---[![Website Badge](https://img.shields.io/badge/Website-7A7ADB?style=flat-square&logo=google-chrome&logoColor=white)](https://www.jamesburke.dev)---></span>
+</span>
 
 <h2> 🛠️ - What I work with  </h2>
 Know/Using:
@@ -30,12 +30,14 @@ Learning:
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=jburke234&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=jburke234)
 
-<!---
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
+<!---
+Add back once website is finished:
+[![Website Badge](https://img.shields.io/badge/Website-7A7ADB?style=flat-square&logo=google-chrome&logoColor=white)](https://www.jamesburke.dev)
+
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jburke234&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jburke234's Github Stats">
 
