@@ -10,11 +10,7 @@
 </span>
 
 <h2> 🌐 - Programming Languages  </h2>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jburke234&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) 
-  
-<span align="right">Know/Using:
+<span align="left">Know/Using:
   
 |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="28">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | 
 |---|---|
@@ -25,6 +21,8 @@ Learning:
 |---|---| 
 </span>  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jburke234&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) 
+ 
 <br>
 
 <h2> 🛠️ - Tools  </h2>
