@@ -6,22 +6,22 @@ I’m currently looking for exciting development opportunities in Vancouver
 
 <h2> Programming Languages 🌐 </h2>
 
-## Know/Using
+-- Know/Using --
 
 |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="28">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | 
 
-## Learning
+-- Learning --
 
 |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="28">](https://www.typescriptlang.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="28">](https://www.rust-lang.org/)  | 
 
 <h2> Tools 🛠️ </h2>
 
-## Know/Using
+-- Know/Using --
 
 |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="28">](https://git-scm.com/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="28">](https://code.visualstudio.com/)  |
 
 
-## Learning
+-- Learning --
 
 |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="28">](https://kubernetes.io/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="28">](https://aws.amazon.com/)  |
 
