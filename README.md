@@ -1,12 +1,13 @@
 <h2> 👋 - Hello </h2>
 
-I’m James, a full stack developer, who is interested in all things programming. I’m currently trying to improve my web development skills by learning Bootstrap and React. <br>
-I’m also looking for exciting development opportunities in Vancouver <br>
+- I’m James, a full stack developer, who is interested in all things programming. I’m currently trying to improve my web development skills by learning Bootstrap and React.
 
-<div> 
+- I’m also looking for exciting development opportunities in Vancouver. 
+
+- If you want to get in touch try one of these: <span> 
 <a href="https://www.jamesburke.dev" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=JamesBurke&color=7A7ADB" alt="JamesBurke.dev"></a>
 <a href="https://www.linkedin.com/in/jamesburkedev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</div>
+</span>
 
 <h2> 🌐 - Programming Languages  </h2>
 
