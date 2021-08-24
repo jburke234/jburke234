@@ -30,6 +30,12 @@ Learning:
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jburke234&show_icons=true&hide_border=true&langs_count=5"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=jburke234&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
+<p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jburke234&bg_color=ffffff&color=0e76a8&line=0e76a8&point=0e76a8&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jburke234)
 
@@ -40,7 +46,22 @@ Learning links:
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="28">](https://kubernetes.io/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="28">](https://aws.amazon.com/)  
 ---|---|---|
 
-Add back once website is finished:
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jburke234&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<details>
+  <summary style="display: inline;"><h2 style="display: inline;"> 📈 - My Github Stats </h2></summary>
+  <br>
+<p>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jburke234&show_icons=true&hide_border=true&langs_count=5"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=jburke234&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
+<p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jburke234&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <br>
+</details>
 
 
 <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
