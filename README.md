@@ -58,9 +58,6 @@ Learning links:
 <p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jburke234&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <br>
 </details>
 
 
