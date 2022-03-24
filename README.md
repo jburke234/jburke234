@@ -34,9 +34,6 @@ Learning:
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jburke234&bg_color=ffffff&color=0e76a8&line=0e76a8&point=0e76a8&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=jburke234)
 
 
