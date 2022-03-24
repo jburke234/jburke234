@@ -46,7 +46,6 @@ Learning links:
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="28">](https://kubernetes.io/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="28">](https://aws.amazon.com/)  
 ---|---|---|
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jburke234&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details>
   <summary style="display: inline;"><h2 style="display: inline;"> 📈 - My Github Stats </h2></summary>
