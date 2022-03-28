@@ -1,12 +1,9 @@
-<h2> 👋 - Hello </h2>
+<h2> 👋 - Hi, I'm James </h2>
 
 
-
-- I’m James, a full stack developer, who is interested in all things programming. I’m currently trying to improve my web development skills by learning Bootstrap and React.
-
-- I’m also looking for exciting development opportunities in Vancouver. 
-
-- If you want to reach out:  <span> 
+- I'm a Software Developer originally from Ireland, living in Vancouver, BC. 
+- My development interests centre around the following topics Data Structures & Algorithms, Data Science, Machine Learning, AI and Cloud Technologies. 
+- I'm currently looking for exciting development opportunities in Vancouver. If you know of any feel free to reach out! <br> <span> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jamesburkedev)
 [![Website Badge](https://img.shields.io/badge/Website-7A7ADB?style=flat-square&logo=google-chrome&logoColor=white)](https://www.jamesburke.dev)
 [![Mail Badge](https://img.shields.io/badge/Mail-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](mailto:info@jamesburke.dev)
