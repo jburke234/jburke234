@@ -12,17 +12,7 @@
 [![Mail Badge](https://img.shields.io/badge/Mail-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](mailto:info@jamesburke.dev)
 </span>
 
-<h2> 🛠️ - What I work with  </h2>
-Know/Using:
-  
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="28">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html logo" width="28">](https://developer.mozilla.org/en-US/docs/Web/HTML)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css logo" width="28">](https://developer.mozilla.org/en-US/docs/Web/CSS)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql logo" width="28">](https://www.mysql.com/)  |   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="28">](https://git-scm.com/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="28">](https://code.visualstudio.com/)  |
-|---|---|---|---|---|---|---|
-
-Learning:
-  
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ts logo" width="28">](https://reactjs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="rust logo" width="28">](https://getbootstrap.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongo logo" width="28">](https://www.mongodb.com/)  |  
-|---|---|---|
-  
+<br> 
 
 <h2> 📈 - My Github Stats </h2>
 
