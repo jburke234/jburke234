@@ -3,7 +3,7 @@
 
 - I'm a Software Developer originally from Ireland, living in Vancouver, BC. 
 - My development interests centre around the following topics Data Structures & Algorithms, Data Science, <br> Machine Learning, AI and Cloud Technologies. 
-<span> 
+- <span> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jamesburkedev)
 [![Website Badge](https://img.shields.io/badge/Website-7A7ADB?style=flat-square&logo=google-chrome&logoColor=white)](https://www.jamesburke.dev)
 [![Mail Badge](https://img.shields.io/badge/Mail-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](mailto:info@jamesburke.dev)
